@@ -1,0 +1,3 @@
+LastName,FirstName,Email,UserName,Password,AuthSource,OfficialCode,PhoneNumber,Status,Courses
+Apellido ejemplo,Nombre ejemplo,correo@mail.com,,,platform,EST021,999 99 99 99,user,
+Apellido 2 ejemplo,nombre 2 ejemplo,correo1@mail.com,,,platform,PAD009,999 99 99 99,drh,
